@@ -1,0 +1,63 @@
+<html>
+
+<head>
+    <title>Tooltip</title>
+    <link rel="stylesheet" href="tooltip.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+
+<body>
+    <div id="tooltip-start">
+        <img src="images/4.png">
+        <p id="count-1" >Bun venit pe pltforma noastră!</p>
+        <p id="count-2" style="display: none;">Hai să facem un tur!</p>
+        <p id="count-3" style="display: none;">bla bla bla</p>
+        <p id="count-4" style="display: none;">Pentru mai multe detalii te va ajuta colega.</p>
+        
+    </div>
+    <div id="tooltip-next" style="display: none;">
+        <img src="images/1.png">
+        <div class="next-div" id="next-1">
+            <p>1. Alte detalii....</p> 
+            <div class='btn-line'>
+                 
+                  <button class="next-btn"  type="button">></button>
+               
+              </div> 
+        </div>
+        <div class="next-div"id="next-2" style="display: none;">
+            <p>2. Alte detalii....</p> 
+            <div class='btn-line'>
+                  <button class="prev-btn"  type="button"><</button>
+                  <button class="next-btn"  type="button">></button>
+               
+              </div>
+            
+        </div>
+        <div class="next-div" id="next-3" style="display: none;">
+            <p>3. Alte detalii....</p> 
+            <div class='btn-line'>
+                  <button class="prev-btn"  type="button"><</button>
+                  <button class="next-btn"  type="button">></button>
+               
+              </div>
+        </div>
+        <div class="next-div" id="next-4" style="display: none;">
+            <p>4. Alte detalii....</p> 
+            <div class='btn-line'>
+                  <button class="prev-btn"  type="button"><</button>
+                  <button class="hide-btn"  type="button">Ascunde</button>
+              </div>
+        </div>
+        
+    </div>
+    <div id="tooltip" style="display: none;">
+        <img src="images/3.png">
+        <p id="alte-detalii" style="display: none;">Alte detalii....</p>
+        
+    </div>
+   
+    <script src="tooltip-move.js"></script>
+</body>
+
+</html>
