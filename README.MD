@@ -32,14 +32,14 @@ Impartirea platformei in trei module (una pentru fiecare temă a concursului) + 
 --suma maxima pe care pot sa o investesc<br>
 
 <h3>Conectează-te </h3><br>
-forum cu discutii pe diverse aspecte (materii, probleme organizatorice, sfaturi, ..), la care sa se faca acces in functie de rolul fiecaruia (elev, profesor, consultant in educatie, ...)<br>
-<br><br>
-Link live: https://roguetesting.club/devHacks2020/\
-<br><br>
-Funcționalități suplimentare:<br>
+-forum cu discutii pe diverse aspecte (materii, probleme organizatorice, sfaturi, ..), la care sa se faca acces in functie de rolul fiecaruia (elev, profesor, consultant in educatie, ...)<br>
+<br>Funcționalități suplimentare:<br>
 -survey profesori<br>
 -gamification<br>
 -hartă / hot spot / help<br>
 -tutoriale<br>
 -asistent integrat (js over front)<br>
--wiki (tutoriale)<br>
+-wiki (tutoriale)<br><br>
+Link live: https://roguetesting.club/devHacks2020/
+<br><br>
+
