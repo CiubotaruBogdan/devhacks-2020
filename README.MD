@@ -21,7 +21,7 @@ Impartirea platformei in trei module (una pentru fiecare temă a concursului) + 
 -calendar<br>
 -lista de to-do<br>
 
-<h3>Ajută </h3>\
+<h3>Ajută </h3>
 -urmarirea elevilor si a gradului lor de abandon (cu sortare in functie de ea), metrica ce poate fi calculata (poate cu ML si set de date generat aleator, dupa niste statistici nationale) dupa criterii precum:<br>
 --numar de deconectari bruste (cauzate de o conexiune proasta la Internet) de la platforma<br>
 --numar de ore la care a absentat<br>
@@ -31,12 +31,12 @@ Impartirea platformei in trei module (una pentru fiecare temă a concursului) + 
 --distanta maxima pe care pot sa o parcurg<br>
 --suma maxima pe care pot sa o investesc<br>
 
-<h3>Conectează-te </h3>\
-forum cu discutii pe diverse aspecte (materii, probleme organizatorice, sfaturi, ..), la care sa se faca acces in functie de rolul fiecaruia (elev, profesor, consultant in educatie, ...)\
-\
+<h3>Conectează-te </h3><br>
+forum cu discutii pe diverse aspecte (materii, probleme organizatorice, sfaturi, ..), la care sa se faca acces in functie de rolul fiecaruia (elev, profesor, consultant in educatie, ...)<br>
+<br><br>
 Link live: https://roguetesting.club/devHacks2020/\
-
-Funcționalități suplimentare:\
+<br><br>
+Funcționalități suplimentare:<br>
 -survey profesori<br>
 -gamification<br>
 -hartă / hot spot / help<br>
