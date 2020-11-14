@@ -1,2 +1,1 @@
-![Final](https://user-images.githubusercontent.com/19900463/99136995-c7f5ea00-2630-11eb-8623-5420721cd0dd.png)
-
+![tone_2](https://user-images.githubusercontent.com/19900463/99136958-85341200-2630-11eb-846a-1357ae69dfe7.png=250)
