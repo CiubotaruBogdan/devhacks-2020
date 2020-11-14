@@ -1,12 +1,12 @@
 # devhacks2020_rogueleague
-<img src="https://user-images.githubusercontent.com/19900463/99136995-c7f5ea00-2630-11eb-8623-5420721cd0dd.png" width="50%">
-Detalii generale
+<img src="https://user-images.githubusercontent.com/19900463/99136995-c7f5ea00-2630-11eb-8623-5420721cd0dd.png" width="30%">
+<h1>Detalii generale</h1>
 
 Impartirea platformei in trei module (una pentru fiecare temă a concursului) + landing page de prezentare:
-1) LP prezentare (enter page)
-2) Pregătește-te (“Facilitarea intelegerii si dezvoltarii..”)
-3) Ajută (“1 din 5 copii parasesc..”), care sa fie publica (sa nu necesite login in platforma)
-4) Conectează-te (“Crearea unei comunitati..”)
+1) <b>LP prezentare</b> (enter page)
+2) <b>Pregătește-te</b> (“Facilitarea intelegerii si dezvoltarii..”)
+3) <b>Ajută</b> (“1 din 5 copii parasesc..”), care sa fie publica (sa nu necesite login in platforma)
+4) <b>Conectează-te</b> (“Crearea unei comunitati..”)
 
 ---1--- Pagina de start (landing page), cu mai multe sectiuni (fiecare cu imagine sugestiva ca background):\
 -descrierea platformei\
