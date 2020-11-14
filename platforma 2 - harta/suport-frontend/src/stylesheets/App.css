@@ -1,0 +1,146 @@
+/* Logo */
+
+.logo{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 25px;
+    left: 25px;
+    z-index: 1;
+    cursor: pointer !important;
+}
+
+/* Crown */
+.crown{
+    position: absolute;
+    right: 20px;
+    top: 170px;
+    color: #f1c40f;
+    font-size: 40px;
+    cursor: pointer;
+}
+
+table tr:nth-child(1) svg{
+    color: #f1c40f;
+}
+
+table tr:nth-child(2) svg{
+    color: #bdc3c7;
+}
+
+table tr:nth-child(3) svg{
+    color: #e67e22;
+}
+
+/* Borders (not proud about this, but all for the sake of the beauty..) */
+.custom-border{
+    position: absolute;
+    background: #e63946;
+    z-index: 2;
+}
+
+.bottom-border{
+    bottom: 0;
+    left: 0;
+    height: 10px;
+    width: 100%;
+}
+
+.upper-border{
+    top: 0;
+    left: 0;
+    height: 10px;
+    width: 100%;
+}
+
+.left-border{
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 10px;
+}
+
+.right-border{
+    top: 0;
+    right: 0;
+    height: 100%;
+    width: 10px;
+}
+
+/* Buttons */
+
+.menu-button{
+    position: absolute;
+    width: 180px;
+    height: 40px;
+}
+
+.menu-button svg{
+    margin-bottom: 4px;
+    margin-right: 5px;
+}
+
+.menu-button.add{
+    top: 20px;
+    right: 20px;
+}
+
+.menu-button.random{
+    top: 70px;
+    right: 20px;
+}
+
+.menu-button.back{
+    top: 120px;
+    right: 20px;
+}
+
+.dark-button{
+    background: #457b9d;
+    border-color: #457b9d;
+}
+
+.dark-button:hover, .dark-button:focus, .dark-button:active{
+    background: #2d5286;
+    border-color: #2d5286;
+    outline: none;
+    box-shadow: none;
+}
+
+.red-button{
+    background: #e63946;
+    border-color: #e63946;
+}
+
+.red-button:hover, .red-button:focus, .red-button:active{
+    background: #eb616b;
+    border-color: #eb616b;
+    outline: none;
+    box-shadow: none;
+}
+
+/* Map */
+
+.mapboxgl-ctrl{
+    display: none !important;
+}
+
+.marker{
+    font-size: 30px;
+    color: #eb616b;
+    cursor: pointer !important;
+}
+
+/* Toast */
+
+.toast{
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+}
+
+/* Modals */
+
+.padded-input{
+    margin-bottom: 10px;
+}
