@@ -8,20 +8,20 @@ Impartirea platformei in trei module (una pentru fiecare temă a concursului) + 
 3) <b>Ajută</b> (“1 din 5 copii parasesc..”), care sa fie publica (sa nu necesite login in platforma)
 4) <b>Conectează-te</b> (“Crearea unei comunitati..”)
 
----1--- <h3>Pagina de start</h3> (landing page), cu mai multe sectiuni (fiecare cu imagine sugestiva ca background):\
+ <h3>Pagina de start</h3> (landing page), cu mai multe sectiuni (fiecare cu imagine sugestiva ca background):\
 -descrierea platformei\
 -cele trei module, din care sa se poata alege\
 -asistent virtual in platforma, care sa ghideze profesorii si elevii\
 -crearea unei diagrame cu Whimsical cu toate componentele implementate, ce poate fi prezentata mentorilor si incorporata in prezentarea finala\
 \
----2--- Pregătește-te (Learn)\
+<h3> Pregătește-te </h3>\
 -tabla interactiva (posibila integrare cu o solutie open-source), una pentru fiecare clasa virtuala\
 -verificarea atentiei elevilor prin trimiterea de intrebari, specifice lectiei, si primitea unui raspuns de la fiecare elev (pop up de atenție)\
 -suport pentru teste\
 -calendar\
 -lista de to-do\
 
----3--- Ajută (Support)\
+<h3>Ajută </h3>\
 -urmarirea elevilor si a gradului lor de abandon (cu sortare in functie de ea), metrica ce poate fi calculata (poate cu ML si set de date generat aleator, dupa niste statistici nationale) dupa criterii precum:\
 --numar de deconectari bruste (cauzate de o conexiune proasta la Internet) de la platforma\
 --numar de ore la care a absentat\
@@ -31,7 +31,7 @@ Impartirea platformei in trei module (una pentru fiecare temă a concursului) + 
 --distanta maxima pe care pot sa o parcurg\
 --suma maxima pe care pot sa o investesc\
 
----4--- Conectează-te (Connect)\
+<h3>Conectează-te </h3>\
 forum cu discutii pe diverse aspecte (materii, probleme organizatorice, sfaturi, ..), la care sa se faca acces in functie de rolul fiecaruia (elev, profesor, consultant in educatie, ...)\
 \
 Link live: https://roguetesting.club/devHacks2020/\
