@@ -8,13 +8,13 @@ Impartirea platformei in trei module (una pentru fiecare temă a concursului) + 
 3) <b>Ajută</b> (“1 din 5 copii parasesc..”), care sa fie publica (sa nu necesite login in platforma)
 4) <b>Conectează-te</b> (“Crearea unei comunitati..”)
 
- <h3>Pagina de start</h3> (landing page), cu mai multe sectiuni (fiecare cu imagine sugestiva ca background):\
--descrierea platformei\
--cele trei module, din care sa se poata alege\
--asistent virtual in platforma, care sa ghideze profesorii si elevii\
+ <h3>Pagina de start</h3> <br>(landing page), cu mai multe sectiuni (fiecare cu imagine sugestiva ca background):<br>
+-descrierea platformei<br>
+-cele trei module, din care sa se poata alege<br>
+-asistent virtual in platforma, care sa ghideze profesorii si elevii<br>
 -crearea unei diagrame cu Whimsical cu toate componentele implementate, ce poate fi prezentata mentorilor si incorporata in prezentarea finala\
-\
-<h3> Pregătește-te </h3>\
+<br>
+<h3> Pregătește-te </h3><br>
 -tabla interactiva (posibila integrare cu o solutie open-source), una pentru fiecare clasa virtuala\
 -verificarea atentiei elevilor prin trimiterea de intrebari, specifice lectiei, si primitea unui raspuns de la fiecare elev (pop up de atenție)\
 -suport pentru teste\
