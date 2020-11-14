@@ -8,7 +8,7 @@ Impartirea platformei in trei module (una pentru fiecare temă a concursului) + 
 3) <b>Ajută</b> (“1 din 5 copii parasesc..”), care sa fie publica (sa nu necesite login in platforma)
 4) <b>Conectează-te</b> (“Crearea unei comunitati..”)
 
----1--- Pagina de start (landing page), cu mai multe sectiuni (fiecare cu imagine sugestiva ca background):\
+---1--- <h3>Pagina de start</h3> (landing page), cu mai multe sectiuni (fiecare cu imagine sugestiva ca background):\
 -descrierea platformei\
 -cele trei module, din care sa se poata alege\
 -asistent virtual in platforma, care sa ghideze profesorii si elevii\
